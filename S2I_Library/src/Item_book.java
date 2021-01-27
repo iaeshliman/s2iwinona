@@ -1,4 +1,3 @@
-package S2I_Library;
 
 public class Item_book extends Item{
 

@@ -1,4 +1,3 @@
-package S2I_Library;
 
 public abstract class Item {
 	protected String title;

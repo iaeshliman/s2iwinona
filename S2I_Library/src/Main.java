@@ -11,7 +11,7 @@ public class Main {
 		String[] authorArr = new String[20];
 		
 		try {
-			Scanner sc = new Scanner(new File("input_file"));
+			Scanner sc = new Scanner(new File("data.txt"));
 			while(sc.hasNext()) {
 				text = sc.nextLine();
 				if(text.contains("<Title>")) {
